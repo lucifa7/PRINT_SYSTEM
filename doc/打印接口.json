@@ -1,0 +1,16 @@
+{
+	"msgid": "1234567890",
+	"client": "ERP",
+	"sysgroup": "ASIA",
+	"busstype": "ORDER",
+	"model": "SHIP",
+	"printtype": "MAIL",
+	"maillist": "1539601747@qq.com",
+	"printername": "PDF",
+	"orderkey": "12345678",
+	"copies": 1,
+	"template": "ORDER04",
+	"xmldata": "<?xml version='1.0' encoding='UTF-8'?><!--Type:ORDER04 WHSEID=WMWHSE5--><labels ><label><WHSEID>WMWHSE5</WHSEID><STORERKEY>DEKJG0100</STORERKEY><COMPANY>达尔科技股份有限公司</COMPANY><SUSR3>达尔科技</SUSR3><ADDDATE>2020-08-04 10:52:23.0</ADDDATE><CONSIGNEEKEY>WCZTY0705</CONSIGNEEKEY><S1COMPANY>纬创资通（昆山）有限公司(F236)</S1COMPANY><REQUESTEDSHIPDATE>2020-08-04 17:00:00.0</REQUESTEDSHIPDATE><GNTYPE>G</GNTYPE><TRADINGPARTNER>W101-F236昆山经济技术开发区鸿雁路88号</TRADINGPARTNER><SKU>SMAJ26CA-13-F</SKU><LOTTABLE07>125-00332-S$AA</LOTTABLE07><SUSR1/><SUSR2>ZSTS    R2_SA;</SUSR2><ODSUSR3>14773901-00100-1</ODSUSR3><SUSR4/><QTY>5000</QTY><DESCR/><JINYONG/><UDF2>ROHS2+HF</UDF2><NOTES2/><SUSR20/><UDF11/><TAG/><ORDERKEY>0000769864</ORDERKEY><PUID>10000908</PUID></label><service><SERVICENAME>实际总箱/出仓</SERVICENAME></service><service><SERVICENAME>实际总托盘数/出仓</SERVICENAME></service><service><SERVICENAME>实际散箱数/出仓</SERVICENAME></service><service><SERVICENAME>实际MPQ数/拆拣</SERVICENAME></service><service><SERVICENAME>实际盘数/拆拣</SERVICENAME></service><service><SERVICENAME>标准操作/拆拣</SERVICENAME></service><service><SERVICENAME>标准操作/耗材提供</SERVICENAME></service><service><SERVICENAME>实际总箱/耗材提供</SERVICENAME></service><service><SERVICENAME>实际条数/D/C采集</SERVICENAME></service><service><SERVICENAME>实际条数/L/T采集</SERVICENAME></service><service><SERVICENAME>实际制标张数/制标</SERVICENAME></service><service><SERVICENAME>实际贴标张数/贴标</SERVICENAME></service><service><SERVICENAME>实际散箱数/贴标</SERVICENAME></service></labels>",
+	"username": "ERP",
+	"password": "04edb07870ca03aa3a049476b716e70c"
+}
